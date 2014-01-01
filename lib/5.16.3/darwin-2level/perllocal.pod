@@ -1956,3 +1956,135 @@ C<EXE_FILES: >
 
 =back
 
+=head2 Thu Jan  2 03:15:33 2014: C<Module> L<Sub::Identify|Sub::Identify>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 03:15:41 2014: C<Module> L<Proc::Wait3|Proc::Wait3>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 03:15:43 2014: C<Module> L<Scope::Guard|Scope::Guard>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 03:17:06 2014: C<Module> L<Server::Starter|Server::Starter>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: start_server>
+
+=back
+
+=head2 Thu Jan  2 03:17:19 2014: C<Module> L<Parallel::Prefork|Parallel::Prefork>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 03:17:29 2014: C<Module> L<Starlet|Starlet>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

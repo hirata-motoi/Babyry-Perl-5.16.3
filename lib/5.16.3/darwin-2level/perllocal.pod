@@ -2088,3 +2088,509 @@ C<EXE_FILES: >
 
 =back
 
+=head2 Thu Jan  2 16:36:11 2014: C<Module> L<Capture::Tiny|Capture::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:36:14 2014: C<Module> L<Test::Output|Test::Output>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:36:16 2014: C<Module> L<Class::Singleton|Class::Singleton>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.4>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:36:21 2014: C<Module> L<DateTime::TimeZone|DateTime::TimeZone>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.63>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:36:47 2014: C<Module> L<DBIx::Simple|DBIx::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.35>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:37:06 2014: C<Module> L<YAML|YAML>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.88>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:37:09 2014: C<Module> L<Config::Any|Config::Any>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:37:16 2014: C<Module> L<Test::use::ok|Test::use::ok>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:37:16 2014: C<Module> L<Hash::Util::FieldHash::Compat|Hash::Util::FieldHash::Compat>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:37:21 2014: C<Module> L<Data::Util|Data::Util>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.62>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:37:28 2014: C<Module> L<Algorithm::Diff|Algorithm::Diff>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.1902>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:37:30 2014: C<Module> L<Text::Diff|Text::Diff>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.41>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:37:37 2014: C<Module> L<Clone|Clone>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.36>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:37:37 2014: C<Module> L<Hash::Merge::Simple|Hash::Merge::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.051>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:38:01 2014: C<Module> L<File::Remove|File::Remove>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.52>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:38:03 2014: C<Module> L<PAR::Dist|PAR::Dist>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.49>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:38:17 2014: C<Module> L<Module::ScanDeps|Module::ScanDeps>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.13>
+
+=item *
+
+C<EXE_FILES: script/scandeps.pl>
+
+=back
+
+=head2 Thu Jan  2 16:38:49 2014: C<Module> L<Module::Install|Module::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:38:50 2014: C<Module> L<Module::Install::AuthorTests|Module::Install::AuthorTests>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:38:51 2014: C<Module> L<Test::LoadAllModules|Test::LoadAllModules>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.022>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:38:54 2014: C<Module> L<UNIVERSAL::require|UNIVERSAL::require>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 16:38:56 2014: C<Module> L<DBIx::DBHResolver|DBIx::DBHResolver>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan  2 21:11:43 2014: C<Module> L<DBD::mysql|DBD::mysql>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/hirata.motoi/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.025>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
